@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="White"
+             x:Class="Movies.Views.LoginPage">
+    <StackLayout Padding="24, 8">
+        <StackLayout VerticalOptions="StartAndExpand">
+            <Label Text="Login" TextColor="Black" FontSize="24" HorizontalOptions="Center" />
+            <Label Text="Signin to your account to continue" TextColor="Black" FontSize="15" HorizontalOptions="Center" />
+        </StackLayout>
+        <StackLayout VerticalOptions="FillAndExpand" Spacing="4">
+            <StackLayout Padding="20">
+                <Label Text="Email" TextColor="Black" FontSize="15" />
+                <Entry Keyboard="Email" Placeholder="Entre your email..." />
+                <Label Text="Password" TextColor="Black" FontSize="15" />
+                <Entry IsPassword="true" />
+                <Label Text="Forgot password?" TextColor="#d80a3a" FontAttributes="Bold" FontSize="15" HorizontalOptions="EndAndExpand" />
+                <Button x:Name="btnLogin" Clicked="onLogin"  Text="Login" TextColor="White" BackgroundColor="#d80a3a" CornerRadius="23" Margin="0, 16" />
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" VerticalOptions="EndAndExpand" HorizontalOptions="CenterAndExpand">
+                <Label Text="Don't have an account? " TextColor="Black" FontSize="15" />
+                <Label Text="Sign up" TextColor="#d80a3a" FontAttributes="Bold" FontSize="15" />
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

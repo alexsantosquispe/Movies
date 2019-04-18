@@ -5,7 +5,7 @@
              x:Class="Movies.MainPage">
 
     <StackLayout Padding="8">
-        <ListView x:Name="TeatherToday" SeparatorVisibility="None" RowHeight="300">
+        <ListView x:Name="TeatherToday" SeparatorVisibility="None" RowHeight="200">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>

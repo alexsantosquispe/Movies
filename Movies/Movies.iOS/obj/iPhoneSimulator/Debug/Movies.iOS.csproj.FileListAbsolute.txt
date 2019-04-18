@@ -68,7 +68,6 @@ D:\XamarinProjects\Movies\Movies\Movies.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xa
 D:\XamarinProjects\Movies\Movies\Movies.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
 D:\XamarinProjects\Movies\Movies\Movies.iOS\bin\iPhoneSimulator\Debug\Movies.dll
 D:\XamarinProjects\Movies\Movies\Movies.iOS\bin\iPhoneSimulator\Debug\Movies.pdb
-D:\XamarinProjects\Movies\Movies\Movies.iOS\bin\iPhoneSimulator\Debug\Movies.dll.mdb
 D:\XamarinProjects\Movies\Movies\Movies.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
 D:\XamarinProjects\Movies\Movies\Movies.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
 D:\XamarinProjects\Movies\Movies\Movies.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
@@ -81,3 +80,4 @@ D:\XamarinProjects\Movies\Movies\Movies.iOS\obj\iPhoneSimulator\Debug\XamlC.stam
 D:\XamarinProjects\Movies\Movies\Movies.iOS\obj\iPhoneSimulator\Debug\Movies.iOS.csproj.CopyComplete
 D:\XamarinProjects\Movies\Movies\Movies.iOS\obj\iPhoneSimulator\Debug\Movies.iOS.exe
 D:\XamarinProjects\Movies\Movies\Movies.iOS\obj\iPhoneSimulator\Debug\Movies.iOS.pdb
+D:\XamarinProjects\Movies\Movies\Movies.iOS\bin\iPhoneSimulator\Debug\Movies.dll.mdb
