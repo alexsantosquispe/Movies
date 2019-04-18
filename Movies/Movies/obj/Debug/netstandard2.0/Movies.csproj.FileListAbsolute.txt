@@ -1,0 +1,13 @@
+D:\XamarinProjects\Movies\Movies\Movies\bin\Debug\netstandard2.0\Movies.deps.json
+D:\XamarinProjects\Movies\Movies\Movies\bin\Debug\netstandard2.0\Movies.dll
+D:\XamarinProjects\Movies\Movies\Movies\obj\Debug\netstandard2.0\Movies.csprojAssemblyReference.cache
+D:\XamarinProjects\Movies\Movies\Movies\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\XamarinProjects\Movies\Movies\Movies\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\XamarinProjects\Movies\Movies\Movies\obj\Debug\netstandard2.0\Movies.csproj.CoreCompileInputs.cache
+D:\XamarinProjects\Movies\Movies\Movies\obj\Debug\netstandard2.0\Movies.AssemblyInfoInputs.cache
+D:\XamarinProjects\Movies\Movies\Movies\obj\Debug\netstandard2.0\Movies.AssemblyInfo.cs
+D:\XamarinProjects\Movies\Movies\Movies\bin\Debug\netstandard2.0\Movies.pdb
+D:\XamarinProjects\Movies\Movies\Movies\obj\Debug\netstandard2.0\Movies.dll
+D:\XamarinProjects\Movies\Movies\Movies\obj\Debug\netstandard2.0\Movies.pdb
+D:\XamarinProjects\Movies\Movies\Movies\obj\Debug\netstandard2.0\Views\ItemCard.xaml.g.cs
+D:\XamarinProjects\Movies\Movies\Movies\obj\Debug\netstandard2.0\XamlC.stamp

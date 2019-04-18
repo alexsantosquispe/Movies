@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Movies"
+             x:Class="Movies.MainPage">
+
+    <StackLayout Padding="8">
+        <ListView x:Name="TeatherToday" SeparatorVisibility="None" RowHeight="300">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Spacing="0">
+                            <Frame HasShadow="True" IsClippedToBounds="True" CornerRadius="8" Margin="4, 4, 0, 4" Padding="0">
+                                <Image Source="{Binding poster_path}" BackgroundColor="White" VerticalOptions="FillAndExpand" HorizontalOptions="Start" Aspect="AspectFill" />
+                            </Frame>
+                            <Frame HasShadow="False" IsClippedToBounds="True" CornerRadius="8" BackgroundColor="White" Margin="-12, 4, 4, 4" Padding="0">
+                                <StackLayout Padding="24, 12, 12, 12" VerticalOptions="Center">
+                                    <Label Text="{Binding title}" TextColor="Black" FontSize="Large" LineBreakMode="TailTruncation" MaxLines="2" />
+                                    <Label Text="{Binding release_date}" TextColor="DimGray" />
+                                    <Label Text="{Binding overview}" TextColor="Black" LineBreakMode="TailTruncation" MaxLines="4" />
+                                    <Label Text="{Binding vote_average}" TextColor="Black" HorizontalOptions="EndAndExpand" />
+                                </StackLayout>
+                            </Frame>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>
